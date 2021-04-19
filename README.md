@@ -1,4 +1,4 @@
-# Approach-3-Docker-for-SUMMA-and-pySUMMA
+# Approach 3 Containerizing All Software with Docker
 This repo contains instructions for creating a Docker image or running a pre-existing Docker image that can support the usage of SUMMA and pySUMMA simulations.
 
 ## Setup
